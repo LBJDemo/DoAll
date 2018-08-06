@@ -5,14 +5,8 @@ import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
 /**
- * <p>类名：com.baojun.baselib.utils<p>
- * <p>文件描述：<p>
- * <p>作者：h.yw<p>
- * <p>创建时间：2018/3/30 11:30<p>
- * <p>更改时间：2018/3/30 11:30<p>
- * <p>版本号：1<p>
+ * Created by xdx on 2018/7/30.
  */
-
 public class DisplayUtil {
 
     private static WindowManager windowManager;
