@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoAll.iml" filepath="$PROJECT_DIR$/DoAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/griddialog/griddialog.iml" filepath="$PROJECT_DIR$/griddialog/griddialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skuattributeslayout/skuattributeslayout.iml" filepath="$PROJECT_DIR$/skuattributeslayout/skuattributeslayout.iml" />
+    </modules>
+  </component>
+</project>
