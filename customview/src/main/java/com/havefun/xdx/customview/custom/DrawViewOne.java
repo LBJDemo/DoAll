@@ -33,6 +33,7 @@ public class DrawViewOne extends View {
         paint.setColor(getResources().getColor(R.color.colorAccent));
         paint.setStrokeWidth(12);
         paint.setAntiAlias(true);
+
         canvas.drawColor(Color.parseColor("#60BDE2")); // 设置画布颜色
         canvas.drawCircle(200,200,100,paint);
     }
